@@ -1,0 +1,7 @@
+{
+  "name": "Copy of CogniNote - AI Intelligent Notebook",
+  "description": "A smart notebook that transforms raw information into validated, Cornell-structured knowledge using advanced AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
